@@ -2,9 +2,9 @@
 
 ## Download
 
-**[Download APK](https://github.com/aRc-rAy/SpendBook/raw/main/spendbook-v1.0.0.apk)**
+**[Download APK](https://github.com/aRc-rAy/SpendBook/raw/main/release-files/spendbook-v1.0.0.apk)**
 
-*Alternative: [Visit Repository](https://github.com/aRc-rAy/SpendBook) for latest updates*
+*Alternative: [Visit Repository](https://github.com/aRc-rAy/SpendBook) for source code*
 
 ## Features
 
