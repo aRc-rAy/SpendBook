@@ -4,14 +4,13 @@
 
 **[Download APK](https://github.com/aRc-rAy/SpendBook/releases/download/v4.1.1/spendbook-v4.1.1.apk)**
 
-_Alternative: [Visit Repository](https://github.com/aRc-rAy/SpendBook) for source code_
-
 ## Features
 
 - Track spending, expense and investment
 - History on payments
 - Analytics screen with bar and pie charts
 - Dark and light theme support
+- All data stored locally on your phone for privacy
 
 ## Screenshots
 
